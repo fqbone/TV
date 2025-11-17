@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=中国教育台1.png tvg-name=中国教育台1 group-title=教育频道 ,中国教育台1
+http://239.1.1.65:8065
+#EXTINF:-1 tvg-logo=中国教育台2.png tvg-name=中国教育台2 group-title=教育频道 ,中国教育台2
+http://239.1.1.66:8066
+#EXTINF:-1 tvg-logo=中国教育台4.png tvg-name=中国教育台4 group-title=教育频道 ,中国教育台4
+http://239.1.1.67:8067
+#EXTINF:-1 tvg-logo=金色学堂.png tvg-name=金色学堂 group-title=教育频道 ,金色学堂
+http://239.1.1.82:8082
+#EXTINF:-1 tvg-logo=中学生.png tvg-name=中学生 group-title=教育频道 ,中学生
+http://239.1.1.104:8104
+#EXTINF:-1 tvg-logo=山东教育卫视.png tvg-name=山东教育卫视 group-title=教育频道 ,山东教育卫视
+http://239.1.1.74:8074
+#EXTINF:-1 tvg-logo=早期教育.png tvg-name=早期教育 group-title=教育频道 ,早期教育
+http://239.1.1.128:8128
